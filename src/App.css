@@ -1,0 +1,23 @@
+
+
+body{
+text-align: center;
+}
+
+input{
+  margin: 15px 0 !important;
+}
+
+table{
+  margin-top: 20px !important;
+}
+
+
+.search-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.app-container{
+  margin: 30px;
+}
